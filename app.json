@@ -1,9 +1,10 @@
 {
   "expo": {
-    "name": "CalcIMC",
-    "slug": "CalcIMC",
+    "name": "Firlast IMC",
+    "slug": "FirlastIMC",
     "version": "1.0.0",
     "orientation": "portrait",
+    "sdkVersion": "39.0.0", 
     "icon": "./assets/icon.png",
     "splash": {
       "image": "./assets/splash.png",
@@ -23,7 +24,8 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#FFFFFF"
-      }
+      },
+      "package": "com.firlast.firlastimc"
     },
     "web": {
       "favicon": "./assets/favicon.png"
